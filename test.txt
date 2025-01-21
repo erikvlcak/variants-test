@@ -1,0 +1,96 @@
+<eshop>
+  <product>
+    <title>Test Product 1</title>
+    <product_id>TP1</product_id>
+    <pair_code>TP1_variant</pair_code>
+    <short_desc>
+      <p>This is a test product with multiple variants for testing purposes.</p>
+    </short_desc>
+    <description>
+      <p>A detailed description of Test Product 1.</p>
+    </description>
+    <categories>
+      <category>Category 1</category>
+    </categories>
+    <images>
+      <image>https://example.com/image1.jpg</image>
+    </images>
+    <variant>
+      <parameter>
+        <name>Color</name>
+        <value>Red</value>
+      </parameter>
+      <parameter>
+        <name>Size</name>
+        <value>Small</value>
+      </parameter>
+    </variant>
+    <variant>
+      <parameter>
+        <name>Color</name>
+        <value>Blue</value>
+      </parameter>
+      <parameter>
+        <name>Size</name>
+        <value>Medium</value>
+      </parameter>
+    </variant>
+    <vat>21</vat>
+    <price>100</price>
+    <purchase_price>80</purchase_price>
+    <availability>In Stock</availability>
+    <stock_amount>50</stock_amount>
+  </product>
+  
+  <product>
+    <title>Test Product 2</title>
+    <product_id>TP2</product_id>
+    <pair_code>TP2_variant</pair_code>
+    <short_desc>
+      <p>This is another test product with only one variant.</p>
+    </short_desc>
+    <description>
+      <p>A detailed description of Test Product 2.</p>
+    </description>
+    <categories>
+      <category>Category 2</category>
+    </categories>
+    <images>
+      <image>https://example.com/image2.jpg</image>
+    </images>
+    <variant>
+      <parameter>
+        <name>Color</name>
+        <value>Green</value>
+      </parameter>
+    </variant>
+    <vat>21</vat>
+    <price>50</price>
+    <purchase_price>40</purchase_price>
+    <availability>In Stock</availability>
+    <stock_amount>30</stock_amount>
+  </product>
+  
+  <product>
+    <title>Test Product 3</title>
+    <product_id>TP3</product_id>
+    <pair_code>TP3_variant</pair_code>
+    <short_desc>
+      <p>This product has no variants to test the base case.</p>
+    </short_desc>
+    <description>
+      <p>A detailed description of Test Product 3.</p>
+    </description>
+    <categories>
+      <category>Category 3</category>
+    </categories>
+    <images>
+      <image>https://example.com/image3.jpg</image>
+    </images>
+    <vat>21</vat>
+    <price>200</price>
+    <purchase_price>150</purchase_price>
+    <availability>In Stock</availability>
+    <stock_amount>20</stock_amount>
+  </product>
+</eshop>
