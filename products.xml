@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>201</id>
+    <name>Modern Ceramic Vase</name>
+    <description>Elegant vase perfect for home decor and fresh flowers.</description>
+    <image>https://images.pexels.com/photos/1441150/pexels-photo-1441150.jpeg</image>
+    <price>39.99</price>
+    <original_price>49.99</original_price>
+    <url>https://example.com/products/ceramic-vase</url>
+  </product>
+  <product>
+    <id>202</id>
+    <name>Leather Journal Notebook</name>
+    <description>Handcrafted leather-bound journal with vintage paper.</description>
+    <image>https://images.pexels.com/photos/634808/pexels-photo-634808.jpeg</image>
+    <price>24.50</price>
+    <original_price>29.99</original_price>
+    <url>https://example.com/products/leather-journal</url>
+  </product>
+  <product>
+    <id>203</id>
+    <name>Minimalist Wooden Chair</name>
+    <description>Comfortable and stylish chair made from natural wood.</description>
+    <image>https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg</image>
+    <price>120.00</price>
+    <original_price>150.00</original_price>
+    <url>https://example.com/products/wooden-chair</url>
+  </product>
+</products>
