@@ -1,0 +1,104 @@
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Outdoor Journey Store</title>
+    <link>https://www.adventuregearpro.com</link>
+    <description>Gear and apparel for camping, hiking, and backpacking</description>
+
+    <item>
+      <g:id>TL-1001</g:id>
+      <g:structured_title>
+        <g:digital_source_type>trained_algorithmic_media</g:digital_source_type>
+        <g:content>"Rest Under the Stars: AI-Enhanced TranquilLight Sleeping Bag (Regular)"</g:content>
+      </g:structured_title>
+      <g:structured_description>
+        <g:digital_source_type>trained_algorithmic_media</g:digital_source_type>
+        <g:content>"Stay warm on cool nights with the AI-Enhanced TranquilLight Sleeping Bag. Designed to retain heat while remaining breathable, it ensures restful sleep for backpackers and car campers alike."</g:content>
+      </g:structured_description>
+      <g:link>https://www.adventuregearpro.com/tranquillight-sleeping-bag</g:link>
+      <g:image_link>https://www.adventuregearpro.com/images/tranquillight_sleeping_bag.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.99 USD</g:price>
+      <g:brand>TranquilLight</g:brand>
+      <g:color>Red/Grey</g:color>
+      <g:condition>new</g:condition>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard</g:service>
+        <g:price>7.50 USD</g:price>
+        <g:min_transit_time>3</g:min_transit_time>
+        <g:max_transit_time>5</g:max_transit_time>
+      </g:shipping>
+      <g:shipping_weight>2.0 lb</g:shipping_weight>
+    </item>
+
+    <item>
+      <g:id>RR-2002</g:id>
+      <g:title>RangeRider Hiking Boots</g:title>
+      <g:description>Durable boots designed for traction and stability on rugged trails. Leather and mesh construction to keep feet protected and comfortable through any terrain.</g:description>
+      <g:link>https://www.adventuregearpro.com/rangerider-hiking-boots</g:link>
+      <g:image_link>https://www.adventuregearpro.com/images/rangerider_hiking_boots.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.95 USD</g:price>
+      <g:brand>RangeRider</g:brand>
+      <g:color>Brown</g:color>
+      <g:size>10</g:size>
+      <g:gender>male</g:gender>
+      <g:condition>new</g:condition>
+      <g:shipping_label>OvernightEligible</g:shipping_label>
+      <g:custom_label_0>Backpacking</g:custom_label_0>
+    </item>
+
+    <item>
+      <g:id>AF-3003</g:id>
+      <g:title>AquaFlow Hydration Pack</g:title>
+      <g:description>Lightweight 2-liter hydration backpack with breathable shoulder straps. Perfect for trail running, mountain biking, or day hikes.</g:description>
+      <g:link>https://www.adventuregearpro.com/aquaflow-hydration-pack</g:link>
+      <g:image_link>https://www.adventuregearpro.com/images/aquaflow_hydration_pack.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>45.00 USD</g:price>
+      <g:brand>AquaFlow</g:brand>
+      <g:color>Blue</g:color>
+      <g:condition>new</g:condition>
+      <g:product_detail>
+        <g:section_name>Reservoir</g:section_name>
+        <g:attribute_name>Capacity</g:attribute_name>
+        <g:attribute_value>2 liters</g:attribute_value>
+      </g:product_detail>
+      <g:product_detail>
+        <g:section_name>Material</g:section_name>
+        <g:attribute_name>Fabric</g:attribute_name>
+        <g:attribute_value>Ripstop nylon</g:attribute_value>
+      </g:product_detail>
+    </item>
+
+    <item>
+      <g:id>SM-4004</g:id>
+      <g:title>SummitMaster Cookware Set</g:title>
+      <g:description>Compact cookware kit with a non-stick pot, pan, kettle, and foldable utensils. Stacks together for easy packing, ensuring a quick meal after a long day on the trail.</g:description>
+      <g:link>https://www.adventuregearpro.com/summitmaster-cookware</g:link>
+      <g:image_link>https://www.adventuregearpro.com/images/summitmaster_cookware.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39.99 USD</g:price>
+      <g:brand>SummitMaster</g:brand>
+      <g:color>Grey</g:color>
+      <g:condition>new</g:condition>
+      <g:cost_of_goods_sold>22.00 USD</g:cost_of_goods_sold>
+    </item>
+
+    <item>
+      <g:id>CE-5005</g:id>
+      <g:title>CampEasy Folding Chair</g:title>
+      <g:description>Sturdy, portable folding chair with a built-in cup holder and carrying strap. Ideal for relaxing around the campsite or cheering at outdoor events.</g:description>
+      <g:link>https://www.adventuregearpro.com/campeasy-folding-chair</g:link>
+      <g:image_link>https://www.adventuregearpro.com/images/campeasy_folding_chair.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>24.50 USD</g:price>
+      <g:brand>CampEasy</g:brand>
+      <g:color>Green</g:color>
+      <g:condition>new</g:condition>
+      <g:product_highlight>Lightweight frame built for quick setup</g:product_highlight>
+      <g:product_highlight>Durable fabric supports up to 300 lbs</g:product_highlight>
+    </item>
+
+  </channel>
+</rss>
