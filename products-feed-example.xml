@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Demo Product Feed</title>
+    <link>https://example.com</link>
+    <description>This is a demo feed for Topol.io</description>
+
+    <item>
+      <g:id>201</g:id>
+      <g:title>Modern Ceramic Vase</g:title>
+      <g:description>Elegant vase perfect for home decor and fresh flowers.</g:description>
+      <g:link>https://example.com/products/ceramic-vase</g:link>
+      <g:image_link>https://images.pexels.com/photos/993626/pexels-photo-993626.jpeg</g:image_link>
+      <g:price>39.99 USD</g:price>
+      <g:sale_price>29.99 USD</g:sale_price>
+    </item>
+
+    <item>
+      <g:id>202</g:id>
+      <g:title>Leather Journal Notebook</g:title>
+      <g:description>Handcrafted leather-bound journal with vintage paper.</g:description>
+      <g:link>https://example.com/products/leather-journal</g:link>
+      <g:image_link>https://images.pexels.com/photos/7431638/pexels-photo-7431638.jpeg</g:image_link>
+      <g:price>24.50 USD</g:price>
+      <g:sale_price>19.99 USD</g:sale_price>
+    </item>
+
+    <item>
+      <g:id>203</g:id>
+      <g:title>Minimalist Wooden Chair</g:title>
+      <g:description>Comfortable and stylish chair made from natural wood.</g:description>
+      <g:link>https://example.com/products/wooden-chair</g:link>
+      <g:image_link>https://images.pexels.com/photos/11112738/pexels-photo-11112738.jpeg</g:image_link>
+      <g:price>120.00 USD</g:price>
+      <g:sale_price>99.00 USD</g:sale_price>
+    </item>
+
+  </channel>
+</rss>
