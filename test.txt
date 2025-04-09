@@ -1,18 +1,30 @@
-<eshop>
-    <product>
-        <product_id>12345</product_id>
-        <pair_code>test_variant</pair_code>
-        <variant>
-            <parameter>
-                <name>Color</name>
-                <value>Red</value>
-            </parameter>
-        </variant>
-        <variant>
-            <parameter>
-                <name>Color</name>
-                <value>Blue</value>
-            </parameter>
-        </variant>
-    </product>
-</eshop>
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>101</id>
+    <name>Wireless Headphones</name>
+    <description>Noise-cancelling over-ear headphones with 20-hour battery life.</description>
+    <image>https://example.com/images/headphones.jpg</image>
+    <price>89.99</price>
+    <original_price>129.99</original_price>
+    <url>https://example.com/products/headphones</url>
+  </product>
+  <product>
+    <id>102</id>
+    <name>Smartwatch Series 5</name>
+    <description>Fitness and health tracking smartwatch with heart rate monitor.</description>
+    <image>https://example.com/images/smartwatch.jpg</image>
+    <price>199.00</price>
+    <original_price>249.00</original_price>
+    <url>https://example.com/products/smartwatch</url>
+  </product>
+  <product>
+    <id>103</id>
+    <name>Portable Bluetooth Speaker</name>
+    <description>Compact speaker with powerful sound and 10-hour battery life.</description>
+    <image>https://example.com/images/speaker.jpg</image>
+    <price>45.50</price>
+    <original_price>59.90</original_price>
+    <url>https://example.com/products/speaker</url>
+  </product>
+</products>
