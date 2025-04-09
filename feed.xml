@@ -1,83 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><SHOP>
-<SHOP>
-<SHOPITEM>
-<ITEM_ID>abc123</ITEM_ID>
-<ITEMGROUP_ID>A86</ITEMGROUP_ID>
-<PRODUCTNAME>Adidas Superstar II</PRODUCTNAME>
-<DESCRIPTION><![CDATA[Lifestyle shoes from the Adidas Originals collection made of high-quality leather.]]></DESCRIPTION>
-<URL>http://www.example.com/adidas-superstar-ii-2015/</URL>
-<URL_SIZE>http://www.example.com/adidas-superstar-ii-2015/?size=41</URL_SIZE>
-<IMGURL>http://images.example.com/adidas-superstar-ii-2015.jpg</IMGURL>
-<IMGURL_ALTERNATIVE>http://images.example.com/adidas-superstar-ii-2015-alt-1.jpg</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>http://images.example.com/adidas-superstar-ii-2015-alt-2.jpg</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>http://images.example.com/adidas-superstar-ii-2015-alt-3.jpg</IMGURL_ALTERNATIVE>
-<PRICE_VAT>1390</PRICE_VAT>
-<MANUFACTURER>Adidas</MANUFACTURER>
-<CATEGORYTEXT>Glami.cz | Women’s clothing and footwear | Women’s clothing | Dress</CATEGORYTEXT>
-<EAN>1234567890123</EAN>
-<GLAMI_CPC>1.78125</GLAMI_CPC>
-<PROMOTION_ID>12</PROMOTION_ID>
-<PARAM>
-<PARAM_NAME>size</PARAM_NAME>
-<VAL>41</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>size_system</PARAM_NAME>
-<VAL>EU</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>colour</PARAM_NAME>
-<VAL>white</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>length</PARAM_NAME>
-<VAL>standard</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>material lining</PARAM_NAME>
-<VAL>cotton</VAL>
-<PERCENTAGE>50%</PERCENTAGE>
-</PARAM>
-<PARAM>
-<PARAM_NAME>material lining</PARAM_NAME>
-<VAL>polyester</VAL>
-<PERCENTAGE>50%</PERCENTAGE>
-</PARAM>
-<PARAM>
-<PARAM_NAME>sole material</PARAM_NAME>
-<VAL>rubber</VAL>
-<PERCENTAGE>100%</PERCENTAGE>
-</PARAM>
-<PARAM>
-<PARAM_NAME>occasion</PARAM_NAME>
-<VAL>running;spring;summer;autumn</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>pattern</PARAM_NAME>
-<VAL>solid colour</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>season</PARAM_NAME>
-<VAL>spring;summer;autumn</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>style</PARAM_NAME>
-<VAL>lifestyle</VAL>
-</PARAM>
-<PARAM>
-<PARAM_NAME>type</PARAM_NAME>
-<VAL>ankle</VAL>
-</PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
-<DELIVERY>
-<DELIVERY_ID>PPL</DELIVERY_ID>
-<DELIVERY_PRICE>69</DELIVERY_PRICE>
-<DELIVERY_PRICE_COD>109</DELIVERY_PRICE_COD>
-</DELIVERY>
-<DELIVERY>
-<DELIVERY_ID>Česká pošta</DELIVERY_ID>
-<DELIVERY_PRICE>59</DELIVERY_PRICE>
-<DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD>
-</DELIVERY>
-</SHOPITEM>
-</SHOP>
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>201</id>
+    <name>Modern Ceramic Vase</name>
+    <description>Elegant vase perfect for home decor and fresh flowers.</description>
+    <image>https://images.pexels.com/photos/1441150/pexels-photo-1441150.jpeg</image>
+    <price>39.99</price>
+    <original_price>49.99</original_price>
+    <url>https://example.com/products/ceramic-vase</url>
+  </product>
+  <product>
+    <id>202</id>
+    <name>Leather Journal Notebook</name>
+    <description>Handcrafted leather-bound journal with vintage paper.</description>
+    <image>https://images.pexels.com/photos/634808/pexels-photo-634808.jpeg</image>
+    <price>24.50</price>
+    <original_price>29.99</original_price>
+    <url>https://example.com/products/leather-journal</url>
+  </product>
+  <product>
+    <id>203</id>
+    <name>Minimalist Wooden Chair</name>
+    <description>Comfortable and stylish chair made from natural wood.</description>
+    <image>https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg</image>
+    <price>120.00</price>
+    <original_price>150.00</original_price>
+    <url>https://example.com/products/wooden-chair</url>
+  </product>
+</products>
